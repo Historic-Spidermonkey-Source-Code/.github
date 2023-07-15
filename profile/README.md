@@ -10,6 +10,9 @@ If you are interested in SpiderMonkey history, you should also visit
 - [JavaScript: The First 20 Years - Allen Wirfs-Brock & Brendan Eich](https://zenodo.org/record/4960086)
 - [Mapping The MonkeySphere - Chris Leary (archive.org)](https://web.archive.org/web/20190318024148/http://blog.cdleary.com/2011/06/mapping-the-monkeysphere/)
 - [SpiderMonkey page on Wikipedia](https://en.wikipedia.org/wiki/SpiderMonkey)
+- https://ftp.mozilla.org/pub/js/
+
+Note: this repo is in no way associated with Mozilla.
 
 Wes Garland<br>
 wes@distributive.network
