@@ -11,5 +11,5 @@ If you are interested in SpiderMonkey history, you should also visit
 - [SpiderMonkey page on Wikipedia](https://en.wikipedia.org/wiki/SpiderMonkey)
 - [Mapping The MonkeySphere - Chris Leary (archive.org)](https://web.archive.org/web/20190318024148/http://blog.cdleary.com/2011/06/mapping-the-monkeysphere/)
 
-Wes Garland
+Wes Garland<br>
 wes@distributive.network
