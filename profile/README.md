@@ -8,8 +8,8 @@ The 1.8.5 repository was created by importing the mercurial repository I used to
 If you are interested in SpiderMonkey history, you should also visit 
 - [SpiderMonkey Bibliography - Matthew Gaudet](https://mgaudet.github.io/SpiderMonkeyBibliography/)
 - [JavaScript: The First 20 Years - Allen Wirfs-Brock & Brendan Eich](https://zenodo.org/record/4960086)
-- [SpiderMonkey page on Wikipedia](https://en.wikipedia.org/wiki/SpiderMonkey)
 - [Mapping The MonkeySphere - Chris Leary (archive.org)](https://web.archive.org/web/20190318024148/http://blog.cdleary.com/2011/06/mapping-the-monkeysphere/)
+- [SpiderMonkey page on Wikipedia](https://en.wikipedia.org/wiki/SpiderMonkey)
 
 Wes Garland<br>
 wes@distributive.network
